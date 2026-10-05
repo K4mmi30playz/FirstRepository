@@ -1,0 +1,15 @@
+C:\Users\N440-HNC\source\repos\Consoleapp1\Consoleapp1\bin\Debug\net10.0\Consoleapp1.exe
+C:\Users\N440-HNC\source\repos\Consoleapp1\Consoleapp1\bin\Debug\net10.0\Consoleapp1.deps.json
+C:\Users\N440-HNC\source\repos\Consoleapp1\Consoleapp1\bin\Debug\net10.0\Consoleapp1.runtimeconfig.json
+C:\Users\N440-HNC\source\repos\Consoleapp1\Consoleapp1\bin\Debug\net10.0\Consoleapp1.dll
+C:\Users\N440-HNC\source\repos\Consoleapp1\Consoleapp1\bin\Debug\net10.0\Consoleapp1.pdb
+C:\Users\N440-HNC\source\repos\Consoleapp1\Consoleapp1\obj\Debug\net10.0\Consoleapp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\N440-HNC\source\repos\Consoleapp1\Consoleapp1\obj\Debug\net10.0\Consoleapp1.AssemblyInfoInputs.cache
+C:\Users\N440-HNC\source\repos\Consoleapp1\Consoleapp1\obj\Debug\net10.0\Consoleapp1.AssemblyInfo.cs
+C:\Users\N440-HNC\source\repos\Consoleapp1\Consoleapp1\obj\Debug\net10.0\Consoleapp1.csproj.CoreCompileInputs.cache
+C:\Users\N440-HNC\source\repos\Consoleapp1\Consoleapp1\obj\Debug\net10.0\Consoleapp1.dll
+C:\Users\N440-HNC\source\repos\Consoleapp1\Consoleapp1\obj\Debug\net10.0\refint\Consoleapp1.dll
+C:\Users\N440-HNC\source\repos\Consoleapp1\Consoleapp1\obj\Debug\net10.0\Consoleapp1.pdb
+C:\Users\N440-HNC\source\repos\Consoleapp1\Consoleapp1\obj\Debug\net10.0\Consoleapp1.genruntimeconfig.cache
+C:\Users\N440-HNC\source\repos\Consoleapp1\Consoleapp1\obj\Debug\net10.0\ref\Consoleapp1.dll
+C:\Users\N440-HNC\source\repos\Consoleapp1\Consoleapp1\obj\Debug\net10.0\Consolea.DE88C8CC.Up2Date
